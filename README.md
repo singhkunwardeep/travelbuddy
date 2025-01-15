@@ -192,10 +192,7 @@ The installation process is straightforward. You can either clone the repository
 ### Steps to Install and Set Up:
 
 1. **Clone the repository or download the ZIP file**  
-   - To clone the repo, run the following command:
-     ```sh
-     
-     ```
+  
    - Alternatively, you can download the ZIP file from the repository page and extract it.
 
 2. **Open the project folder in a code editor**  
@@ -267,58 +264,6 @@ The roadmap represents the challenges and updates that I plan to implement in th
 </br>
 <div align="center">
 
-## Contributing
-
-</div>
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are <b>greatly appreciated</b>. <br />
-
-<p>Or Maybe you can just  <a href="" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a></p>
-
-If you have an idea or feature that would make this project even better, please feel free to contribute. Whether it's fixing bugs, adding new features, improving documentation, or anything else, your help is welcome!
-
-### How to Contribute:
-
-1. **Fork the repository**  
-   Click on the "Fork" button at the top of this repo to create a copy of the repository on your own GitHub account.
-
-2. **Clone the repo**  
-   Clone your forked version of the repo to your local machine.  
-   ```sh
-   git clone https://github.com/satendra03/trip-planner-by-satendra.git
-   ```
-
-3. **Create your feature branch**  
-   Create a new branch for the feature you're working on.
-   ```sh
-   git checkout -b feature/your-feature-nam
-   ```
-
-4. **Make your Changes**  
-   Modify the code, add new features, or fix bugs. Don't forget to test your changes!
-
-
-5. **Commit your changes**  
-   Commit the changes you've made with a descriptive message.
-   ```sh
-   git commit -m 'Add a new feature or fix a bug'
-   ```
-
-6. **Push to your branch**  
-   Push the changes to your forked repo.
-   ```sh
-   git push origin feature/your-feature-name
-   ```
- 
-4. **Open a Pull Request**  
-   Go to the original repo and click "New Pull Request". Select your branch and provide a description of what your changes do. Once you're ready, submit the pull request!
-  
-
-## Report Issues and Suggestions
-If you encounter a bug or have a suggestion to improve the project, please open an [issue](https://github.com/satendra03/trip-planner-by-satendra/issues) on the Issues page. If it's a new feature or improvement, tag it as an "enhancement".
-
-
-</br>
-<div align="center">
 
 ## License
 
