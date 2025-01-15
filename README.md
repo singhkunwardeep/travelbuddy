@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1 align="center">JourneyJolt</h1 >
-  <a href="https://trip-planner-by-satendra.vercel.app/" target="_blank">
+  <a href="/" target="_blank">
     <img src="https://i.ibb.co/YLK0qVx/image.png" style="border-radius: 10px;" alt="Logo" width="" height="250">
   </a>
 
@@ -16,12 +16,12 @@
      <a href="https://buymeacoffee.com/satendra03" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a>
     <br />
     <br />
-    <a href="https://trip-planner-by-satendra.vercel.app/" target="_blank"><strong>Visit Now</strong></a>
+    <a href="" target="_blank"><strong>Visit Now</strong></a>
     <br />
     <br />
 <!--     <a href="https://i.ibb.co/QkSk539/Whats-App-Image-2024-11-14-at-01-51-59-0db751b0.jpg">Support Me (with Money LOL)</a> -->
 <!--     • -->
-    <a href="https://github.com/satendra03/trip-planner-by-satendra/issues">Report Bug</a>
+    <a href="">Report Bug</a>
   </p>
 </div>
 </br>
@@ -272,7 +272,7 @@ The roadmap represents the challenges and updates that I plan to implement in th
 </div>
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are <b>greatly appreciated</b>. <br />
 
-<p>Or Maybe you can just  <a href="https://buymeacoffee.com/satendra03" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a></p>
+<p>Or Maybe you can just  <a href="" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a></p>
 
 If you have an idea or feature that would make this project even better, please feel free to contribute. Whether it's fixing bugs, adding new features, improving documentation, or anything else, your help is welcome!
 
@@ -329,22 +329,4 @@ Distributed under the MIT License. See <code>LICENSE.md</code> for more informat
 </br>
 <div align="center">
 
-## Contact Us
 
-</div>
-We’d love to hear from you! Whether you have a question, suggestion, or issue to report, feel free to get in touch with us.
-
-### Ways to Contact Us:
-
-1. **GitHub Issues**: You can open an issue directly on this repository for bugs, feature requests, or general inquiries.
-   - [Open an Issue](https://github.com/satendra03/trip-planner-by-satendra/issues)
-
-2. **Email**: Reach out to us via email at:
-   - **satendrakumarparteti.work@gmail.com** 
-
-3. **Social Media**:
-   - **Instagram**: [@_satendra_03](https://www.instagram.com/_satendra_03/)
-   - **LinkedIn**: [Satendra Kumar Parteti](https://www.linkedin.com/in/connect-satendra/)
-4. **Buy Me A Coffee**:
-   - **Small Contibution**:  <a href="https://buymeacoffee.com/satendra03" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a>
----
