@@ -146,7 +146,7 @@ function CreateTrip() {
             Where do you want to Explore? 🏖️
           </h2>
           <GooglePlacesAutocomplete
-            apiKey="AIzaSyCQcIZop5SAk6nU5nNUrd_4I7hjWtFEpbc"
+            apiKey=""
             selectProps={{
               value: place,
               onChange: (place) => {
